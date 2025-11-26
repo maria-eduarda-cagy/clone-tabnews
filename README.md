@@ -1,12 +1,27 @@
-# clone-tabnews
-conteúdo de estudo do https://curso.dev
+# 🚀 clone-tabnews
 
-notes:
+Este repositório contém meu estudo prático baseado no projeto desenvolvido no curso do [curso.dev](https://curso.dev/).
 
-# nvm alias default: lts/hydrogen 
-default para para sair do codespace e voltar com a versão correta 
+O objetivo é recriar uma versão simplificada do TabNews, colocando em prática conceitos de:
+- JavaScript e Node.js
+- Next.js
+- Deploy com Vercel
+- Versionamento com Git
+- Gerenciamento de versões com NVM
 
-# nvmrs = nvm run commands: 
-para que qualquer um fique na mesma versão do nvm
+---
 
+## 🌐 Deploy
+
+A versão beta de desenvolvimento está disponível em:
+
+👉 **https://clonetabnews-beta-dev.vercel.app/**
+
+Esta é uma build experimental, usada para testes e validação de features antes de versões mais estáveis.
+
+---
+
+## 📁 Estrutura do Projeto
+
+Este projeto segue a estrutura básica de um app Next.js (versão com `pages/`):
 

@@ -34,3 +34,6 @@ logs/
 # Cache
 .cache/
 .eslintcache
+
+# Notes
+NOTES.md

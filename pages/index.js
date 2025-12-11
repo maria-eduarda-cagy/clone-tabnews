@@ -1,4 +1,4 @@
 function Home(){
-    return <h1>Olá, seja bem vindo ao início de um projeto!</h1>
+    return <h1>Welcome to my new project</h1>
 }
 export default Home;

@@ -3,6 +3,7 @@
 Este repositório contém meu estudo prático baseado no projeto desenvolvido no curso do [curso.dev](https://curso.dev/).
 
 O objetivo é recriar uma versão simplificada do TabNews, colocando em prática conceitos de:
+
 - JavaScript e Node.js
 - Next.js
 - Deploy com Vercel
@@ -24,4 +25,3 @@ Esta é uma build experimental, usada para testes e validação de features ante
 ## 📁 Estrutura do Projeto
 
 Este projeto segue a estrutura básica de um app Next.js (versão com `pages/`):
-
